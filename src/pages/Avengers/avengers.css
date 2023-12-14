@@ -1,0 +1,13 @@
+.gift{
+  position: absolute;
+  bottom: 100px;
+  right: 100px;
+  z-index: 10;
+  width: 500px;
+  transition: all 0.5s;
+}
+.sectionCartoon {
+  background-image: url("https://res.cloudinary.com/dnju3aw4b/image/upload/v1702401340/Ne0n/fondoav_k6b549.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
